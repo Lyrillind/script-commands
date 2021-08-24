@@ -16,7 +16,7 @@
 # @raycast.argument3 { "type": "text", "placeholder": "value", "optional": false }
 
 
-num_re='^[0-9]+$'
+num_re='^[0-9A-F]+$'
 input_base=$1;
 output_base=$2;
 
