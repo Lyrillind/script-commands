@@ -48,7 +48,7 @@
 # You can enter no inputs just to bring up the DeepL website
 
 # Configure your default language code here:
-defaultLang="en"
+defaultLang="auto"
 
 inputText=$1
 toLang=$2
